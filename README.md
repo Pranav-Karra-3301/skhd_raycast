@@ -47,7 +47,7 @@ To install and run this extension locally, follow these steps:
 
 1. **Clone the Repository**: Clone the extension repository to your local machine.
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Pranav-Karra-3301/skhd_raycast.git
    ```
 
 2. **Navigate to the Directory**: Navigate to the extension's directory.
