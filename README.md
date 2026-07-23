@@ -93,3 +93,7 @@ To install and run this extension locally, follow these steps:
 
 This extension is designed to enhance the usability of `skhd` by providing an easy-to-use interface within Raycast. Enjoy managing your shortcuts with ease!
 
+## Credits
+
+Built by [Pranav Karra](https://pranavkarra.me).
+
